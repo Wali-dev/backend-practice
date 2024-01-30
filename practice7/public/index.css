@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    padding: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.firstName{
+    margin-bottom: 10px;
+}
+
+.lastName{
+    margin-bottom: 10px;
+}
